@@ -67,6 +67,7 @@ package a_main
  *  Problem - 57  :  MedianOfTwoSortedArrays                         : 12
  *  Problem - 58  :  SymmetricTree                                   : 13
  *  Problem - 59  :  SumRootToLeafNumbers                            : 14
+ *  Problem - 60  :  MinimumTimeTypeWordUsingSpecialTypewriter       : 14
  *
  *
  *

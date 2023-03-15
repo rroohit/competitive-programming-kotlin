@@ -68,6 +68,7 @@ package a_main
  *  Problem - 58  :  SymmetricTree                                   : 13
  *  Problem - 59  :  SumRootToLeafNumbers                            : 14
  *  Problem - 60  :  MinimumTimeTypeWordUsingSpecialTypewriter       : 14
+ *  Problem - 61  :  CheckCompletenessBinaryTree                     : 15
  *
  *
  *

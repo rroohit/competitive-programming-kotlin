@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c18197ca-33c2-40f5-83d3-5ade9708f0e5" name="Changes" comment="practice-march">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/solved/leetcode/code_march/CheckCompletenessBinaryTree.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/solved/leetcode/code_march/LongestPalindromicSubstring.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/a_main/Goal_2023.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/a_main/Goal_2023.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,21 +37,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\r0hit\IdeaProjects\competitive-programming-kotlin\src\main\kotlin\solved\leetcode\code_march" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.MinimumTimeTypeWordUsingSpecialTypewriterKt">
+  <component name="RunManager" selected="Kotlin.LongestPalindromicSubstringKt">
     <configuration name="CircularPrinterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="solved.practice.CircularPrinterKt" />
+      <module name="Competitive-Programming.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestPalindromicSubstringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solved.leetcode.code_march.LongestPalindromicSubstringKt" />
       <module name="Competitive-Programming.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -67,6 +73,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.LongestPalindromicSubstringKt" />
         <item itemvalue="Kotlin.MinimumTimeTypeWordUsingSpecialTypewriterKt" />
         <item itemvalue="Kotlin.CircularPrinterKt" />
       </list>
@@ -102,11 +109,22 @@
       <option name="project" value="LOCAL" />
       <updated>1678816357564</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="practice-march">
+      <created>1678902772634</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678902772634</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="practice-march" />
     <option name="LAST_COMMIT_MESSAGE" value="practice-march" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

@@ -32,7 +32,7 @@ fun strStr(haystack: String, needle: String): Int {
 
     for (i in 0..haystack.length) {
         if (i + needle.length <= haystack.length) {
-            val h = haystack.subSequence(i, i+ needle.length).toString()
+            val h = haystack.substring(i, i+ needle.length)
             if (needle == h) {
                 ans = i
                 break

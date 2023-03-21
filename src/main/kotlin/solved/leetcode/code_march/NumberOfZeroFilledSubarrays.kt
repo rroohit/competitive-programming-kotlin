@@ -31,6 +31,23 @@ fun main() {
 }
 
 fun zeroFilledSubarray(nums: IntArray): Long {
+    var ans = 0L
+    var count = 0L
+    for (i in nums) {
+        if (i == 0) {
+            count++
+        } else  {
+            count = 0
+        }
+        ans += count
+    }
+
+    return ans
+
+}
+
+
+fun zeroFilledSubarray2(nums: IntArray): Long {
 
     val size = nums.lastIndex
     var r = 0

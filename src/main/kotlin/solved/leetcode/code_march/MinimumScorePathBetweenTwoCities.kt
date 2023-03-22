@@ -3,7 +3,7 @@ package solved.leetcode.code_march
 import kotlin.math.min
 
 /**
- *  Problem = ?
+ *  Problem = 67
  *
  *  *** Minimum Score of a Path Between Two Cities
  *

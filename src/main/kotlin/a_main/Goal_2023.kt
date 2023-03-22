@@ -74,6 +74,7 @@ package a_main
  *  Problem - 64  :  DesignBrowserHistory                            : 19
  *  Problem - 65  :  CanPlaceFlowers                                 : 20
  *  Problem - 66  :  NumberOfZeroFilledSubArray                      : 21
+ *  Problem - 67  :  MinimumScorePathBetweenTwoCities                : 22
  *
  *
  *

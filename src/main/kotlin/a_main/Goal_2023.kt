@@ -77,6 +77,10 @@ package a_main
  *  Problem - 67  :  MinimumScorePathBetweenTwoCities                : 22
  *  Problem - 68  :  MinimumCostForTickets                           : 28
  *
+ *   *  *** April ***
+ *  Problem - 69  :  BinarySearch                                    : 1
+ *  Problem - 70  :  FormSmallestNumberFromTwoDigitArray             : 1
+ *
  *
  *
  *

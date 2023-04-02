@@ -80,6 +80,7 @@ package a_main
  *   *  *** April ***
  *  Problem - 69  :  BinarySearch                                    : 1
  *  Problem - 70  :  FormSmallestNumberFromTwoDigitArray             : 1
+ *  Problem - 71  :  SuccessfulPairsOfSpellsAndPotions               : 1
  *
  *
  *

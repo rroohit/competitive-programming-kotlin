@@ -8,7 +8,7 @@ package solved.leetcode.code_april
  *  # Intuition :
  *          create has set count of string in given two string then map second string count with first string count
  *          if the count is 0 means string one didn't have that char in it return it
- *          of if the count is greater than stirng one char count it the extra char are not present in string one so return it
+ *          of if the count is greater than string one char count it the extra char are not present in string one so return it
  *
  *  # Approach :
  *

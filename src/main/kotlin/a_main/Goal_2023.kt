@@ -81,6 +81,7 @@ package a_main
  *  Problem - 69  :  BinarySearch                                    : 1
  *  Problem - 70  :  FormSmallestNumberFromTwoDigitArray             : 1
  *  Problem - 71  :  SuccessfulPairsOfSpellsAndPotions               : 1
+ *  Problem - 72  :  IntersectionOfTwoArrays                         : 4
  *
  *
  *

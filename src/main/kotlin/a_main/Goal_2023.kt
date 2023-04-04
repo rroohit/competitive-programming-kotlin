@@ -82,6 +82,8 @@ package a_main
  *  Problem - 70  :  FormSmallestNumberFromTwoDigitArray             : 1
  *  Problem - 71  :  SuccessfulPairsOfSpellsAndPotions               : 1
  *  Problem - 72  :  IntersectionOfTwoArrays                         : 4
+ *  Problem - 73  :  IntersectionOfTwoArraysII                       : 4
+ *  Problem - 74  :  FindTheDifference                               : 4
  *
  *
  *

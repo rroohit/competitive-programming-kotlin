@@ -9,5 +9,3 @@ package algorithms
  *
  */
 
-class DFS {
-}

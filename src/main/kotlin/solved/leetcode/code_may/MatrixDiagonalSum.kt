@@ -9,9 +9,8 @@ package solved.leetcode.code_may
  *
  *  ### Approach :
  *
- *  ### Complexity
+ *  ### Complexity :
  *      - Time complexity: O(n)
- *
  *
  *      - Space complexity: O(1)
  *
@@ -23,7 +22,7 @@ fun main() {
     val matrix = arrayOf(
         intArrayOf(1, 2, 3),
         intArrayOf(4, 5, 6),
-        intArrayOf(7, 8, 9),
+        intArrayOf(7, 8, 9)
     )
 
     println("Ans => ${diagonalSum(matrix)}")

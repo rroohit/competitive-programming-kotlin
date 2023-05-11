@@ -87,6 +87,7 @@ package a_main
  *
  *   *  *** May ***
  *  Problem - 75  :  MatrixDiagonalSum                               : 8
+ *  Problem - 76  :  SpiralMatrix                                    : 8
  *
  *
  *

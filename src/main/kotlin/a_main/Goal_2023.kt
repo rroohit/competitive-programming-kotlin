@@ -89,6 +89,7 @@ package a_main
  *  Problem - 75  :  MatrixDiagonalSum                               : 8
  *  Problem - 76  :  SpiralMatrix                                    : 8
  *  Problem - 77  :  SolvingQuestionsWithBrainpower                  : 12
+ *  Problem - 78  :  CountWaysToBuildGoodStrings                     : 13
  *
  *
  *

@@ -1,5 +1,24 @@
 package solved.leetcode.code_may
 
+/**
+ *  Problem = 78
+ *
+ *  *** Count Ways To Build Good Strings
+ *
+ *  # Intuition
+ *
+ *  # Approach :
+ *
+ *  # Complexity
+ *      - Time complexity: O(n^2)
+ *
+ *
+ *      - Space complexity: O(n)
+ *
+ *
+ * # Code =>
+ */
+
 fun main() {
 
     val low = 3

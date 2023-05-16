@@ -90,6 +90,9 @@ package a_main
  *  Problem - 76  :  SpiralMatrix                                    : 8
  *  Problem - 77  :  SolvingQuestionsWithBrainpower                  : 12
  *  Problem - 78  :  CountWaysToBuildGoodStrings                     : 13
+ *  Problem - 79  :  SwapNodesPairs                                  : 16
+ *  Problem - 80  :  SwappingNodesInLinedList                        : 16
+ *  Problem - 81  :  RemoveNthNodeFromEndList                        : 16
  *
  *
  *

@@ -93,6 +93,7 @@ package a_main
  *  Problem - 79  :  SwapNodesPairs                                  : 16
  *  Problem - 80  :  SwappingNodesInLinedList                        : 16
  *  Problem - 81  :  RemoveNthNodeFromEndList                        : 16
+ *  Problem - 82  :  MaximumTwinSumOfaLinkedList                     : 17
  *
  *
  *

@@ -95,6 +95,8 @@ package a_main
  *  Problem - 81  :  RemoveNthNodeFromEndList                        : 16
  *  Problem - 82  :  MaximumTwinSumOfaLinkedList                     : 17
  *
+ *   *  *** November ***
+ *  Problem - 83  :  CountNodesEqualAverageSubtree                   : 8
  *
  *
  *

@@ -96,7 +96,8 @@ package a_main
  *  Problem - 82  :  MaximumTwinSumOfaLinkedList                     : 17
  *
  *   *  *** November ***
- *  Problem - 83  :  CountNodesEqualAverageSubtree                   : 8
+ *  Problem - 83  :  CountNodesEqualAverageSubtree                   : 4
+ *  Problem - 84  :  FindModeInBinarySearchTree                      : 4
  *
  *
  *

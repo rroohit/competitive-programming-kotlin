@@ -1,7 +1,9 @@
 package solved.leetcode.code_november
 
+import data_structures.tree.TreeNode
+
 /**
- *  Problem = 84
+ *  Problem = 83
  *
  *  *** Count Nodes Equal Average Subtree
  *
@@ -67,57 +69,4 @@ fun averageOfSubtree(root: TreeNode?): Int {
 
 }
 
-fun traversing(node: TreeNode?) {
-    println()
 
-    println("PreOrder Traversal ")
-    preOrderTravers(node)
-
-    println()
-    println("")
-    println("PostOrder Traversal ")
-    postOrderTravers(node)
-
-    println()
-    println("")
-    println("InOrder Traversal ")
-    inOrderTravers(node)
-
-    println()
-
-}
-
-/// [root --> left --> right]
-fun preOrderTravers(node: TreeNode?) {
-    if (node == null) return
-    print("(${node.`val`}) --> ")
-
-    preOrderTravers(node.left)
-    preOrderTravers(node.right)
-
-}
-
-/// [left --> right --> root]
-fun postOrderTravers(node: TreeNode?) {
-    if (node == null) return
-
-    postOrderTravers(node.left)
-    postOrderTravers(node.right)
-
-    print("(${node.`val`}) --> ")
-}
-
-/// [left --> root --> right]
-fun inOrderTravers(node: TreeNode?) {
-    if (node == null) return
-
-    inOrderTravers(node.left)
-    print("(${node.`val`}) --> ")
-    inOrderTravers(node.right)
-
-}
-
-class TreeNode(var `val`: Int) {
-    var left: TreeNode? = null
-    var right: TreeNode? = null
-}

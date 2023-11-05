@@ -1,5 +1,23 @@
 package solved.leetcode.code_november
 
+/**
+ *  Problem = 85
+ *
+ *  *** Find The Winner Of Array Game
+ *
+ *  # Intuition
+ *
+ *  # Approach :
+ *
+ *  # Complexity
+ *      - Time complexity: O(n)
+ *
+ *      - Space complexity: O(1)
+ *
+ *
+ * # Code =>
+ */
+
 fun main() {
 
     val arr = intArrayOf(2, 1, 3, 5, 4, 6, 7)

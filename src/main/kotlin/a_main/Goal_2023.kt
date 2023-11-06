@@ -98,7 +98,8 @@ package a_main
  *   *  *** November ***
  *  Problem - 83  :  CountNodesEqualAverageSubtree                   : 4
  *  Problem - 84  :  FindModeInBinarySearchTree                      : 4
- *  Problem - 85  :  FindTheWinnerOfArrayGame                        : 4
+ *  Problem - 85  :  FindTheWinnerOfArrayGame                        : 5
+ *  Problem - 86  :  SeatReservationManager                          : 6
  *
  *
  *

@@ -100,6 +100,7 @@ package a_main
  *  Problem - 84  :  FindModeInBinarySearchTree                      : 4
  *  Problem - 85  :  FindTheWinnerOfArrayGame                        : 5
  *  Problem - 86  :  SeatReservationManager                          : 6
+ *  Problem - 87  :  EliminateMaximumNumberOfMonsters                : 6
  *
  *
  *

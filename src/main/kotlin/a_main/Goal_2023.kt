@@ -102,7 +102,8 @@ package a_main
  *  Problem - 86  :  SeatReservationManager                          : 6
  *  Problem - 87  :  EliminateMaximumNumberOfMonsters                : 6
  *  Problem - 88  :  DetermineCellIsReachableGivenTime               : 6
- *  Problem - 89  :  CountNumberOfHomogenousSubstrings               : 6
+ *  Problem - 89  :  CountNumberOfHomogenousSubstrings               : 9
+ *  Problem - 90  :  RestoreTheArrayFromAdjacentPairs                : 10
  *
  *
  *

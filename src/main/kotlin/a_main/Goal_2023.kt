@@ -108,6 +108,7 @@ package a_main
  *  Problem - 92  :  SortVowelsInAString                             : 13
  *  Problem - 93  :  UniqueLength-3PalindromicSubsequences           : 14
  *  Problem - 94  :  FindUniqueBinaryString                          : 17
+ *  Problem - 95  :  MinimizeMaximumPairSumInArray                   : 17
  *
  *
  *

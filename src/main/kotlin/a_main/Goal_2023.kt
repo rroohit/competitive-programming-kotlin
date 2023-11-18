@@ -109,6 +109,7 @@ package a_main
  *  Problem - 93  :  UniqueLength-3PalindromicSubsequences           : 14
  *  Problem - 94  :  FindUniqueBinaryString                          : 17
  *  Problem - 95  :  MinimizeMaximumPairSumInArray                   : 17
+ *  Problem - 96  :  FrequencyOfTheMosFrequentElement                : 18
  *
  *
  *

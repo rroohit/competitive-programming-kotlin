@@ -111,6 +111,7 @@ package a_main
  *  Problem - 95  :  MinimizeMaximumPairSumInArray                   : 17
  *  Problem - 96  :  FrequencyOfTheMosFrequentElement                : 18
  *  Problem - 96  :  ReductionOperationsMakeArrayElementsEqual       : 19
+ *  Problem - 97  :  MinimumAmountOfTimeToCollectGarbage             : 20
  *
  *
  *

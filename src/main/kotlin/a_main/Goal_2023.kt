@@ -112,6 +112,7 @@ package a_main
  *  Problem - 96  :  FrequencyOfTheMosFrequentElement                : 18
  *  Problem - 96  :  ReductionOperationsMakeArrayElementsEqual       : 19
  *  Problem - 97  :  MinimumAmountOfTimeToCollectGarbage             : 20
+ *  Problem - 98  :  CountNicePairsInAnArray                         : 21
  *
  *
  *

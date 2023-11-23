@@ -114,6 +114,7 @@ package a_main
  *  Problem - 97  :  MinimumAmountOfTimeToCollectGarbage             : 20
  *  Problem - 98  :  CountNicePairsInAnArray                         : 21
  *  Problem - 99  :  DiagonalTraverseII                              : 22
+ *  Problem - 100  :  ArithmeticSubarrays                            : 23
  *
  *
  *

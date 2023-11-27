@@ -117,6 +117,8 @@ package a_main
  *  Problem - 100  :  ArithmeticSubarrays                            : 23
  *  Problem - 101  :  MaximumNumberOfCoinsYouCanGet                  : 24
  *  Problem - 102  :  SumOfAbsoluteDifferencesSortedArray            : 25
+ *  Problem - 103  :  LargestSubmatrixWithRearrangements             : 26
+ *  Problem - 104  :  KnightDialer                                   : 27
  *
  *
  *

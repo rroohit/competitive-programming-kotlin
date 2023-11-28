@@ -119,6 +119,7 @@ package a_main
  *  Problem - 102  :  SumOfAbsoluteDifferencesSortedArray            : 25
  *  Problem - 103  :  LargestSubmatrixWithRearrangements             : 26
  *  Problem - 104  :  KnightDialer                                   : 27
+ *  Problem - 105  :  NumberOfWaysDivideLongCorridor                 : 28
  *
  *
  *

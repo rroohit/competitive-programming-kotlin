@@ -120,6 +120,7 @@ package a_main
  *  Problem - 103  :  LargestSubmatrixWithRearrangements             : 26
  *  Problem - 104  :  KnightDialer                                   : 27
  *  Problem - 105  :  NumberOfWaysDivideLongCorridor                 : 28
+ *  Problem - 106  :  NumberOf1Bits                                  : 29
  *
  *
  *

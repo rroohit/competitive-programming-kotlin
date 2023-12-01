@@ -121,6 +121,10 @@ package a_main
  *  Problem - 104  :  KnightDialer                                   : 27
  *  Problem - 105  :  NumberOfWaysDivideLongCorridor                 : 28
  *  Problem - 106  :  NumberOf1Bits                                  : 29
+ *  Problem - 107  :  MinimumOneBitOperationsMakeIntegersZero        : 30
+ *
+ *   *  *** November ***
+ *  Problem - 108  :  heckIfTwoStringArraysEquivalent                : 1
  *
  *
  *

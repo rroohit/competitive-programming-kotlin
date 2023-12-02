@@ -3,7 +3,7 @@ package solved.leetcode.code_december
 /**
  *  Problem = 108
  *
- *  *** heck If Two String Arrays are Equivalent
+ *  *** Check If Two String Arrays are Equivalent
  *
  *  # Intuition
  *

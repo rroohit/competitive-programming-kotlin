@@ -130,6 +130,7 @@ package a_main
  *  Problem - 111  :  Largest3SameDigitNumberInString                 : 4
  *  Problem - 112  :  CountOfMatchesInTournament                      : 5
  *  Problem - 113  :  CalculateMoneyInLeetcodeBank                    : 6
+ *  Problem - 114  :  LongestOddNumberInString                        : 7
  *
  *
  *

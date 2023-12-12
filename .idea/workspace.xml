@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c18197ca-33c2-40f5-83d3-5ade9708f0e5" name="Changes" comment="practice-December">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/solved/leetcode/code_december/12_MaximumProductOfTwoElementsArray.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/a_main/Goal_2023.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/a_main/Goal_2023.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +39,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -79,28 +81,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Gradle.Build competitive-programming-kotlin.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin._10_TransposeMatrixKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin._8_ConstructStringFromBinaryTreeKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin._9_BinaryTreeInorderTraversalKt.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/r0hit/IdeaProjects/competitive-programming-kotlin&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build competitive-programming-kotlin.executor": "Run",
+    "Kotlin._10_TransposeMatrixKt.executor": "Run",
+    "Kotlin._11_ElementAppearingMoreThan25_InSortedArrayKt.executor": "Run",
+    "Kotlin._12_MaximumProductOfTwoElementsArrayKt.executor": "Run",
+    "Kotlin._8_ConstructStringFromBinaryTreeKt.executor": "Run",
+    "Kotlin._9_BinaryTreeInorderTraversalKt.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/r0hit/IdeaProjects/competitive-programming-kotlin",
+    "settings.editor.selected.configurable": "advanced.settings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\r0hit\IdeaProjects\competitive-programming-kotlin\src\main\kotlin\solved\leetcode\code_march" />
       <recent name="C:\Users\r0hit\IdeaProjects\competitive-programming-kotlin\src\main\kotlin\unsolved" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._10_TransposeMatrixKt">
+  <component name="RunManager" selected="Kotlin._12_MaximumProductOfTwoElementsArrayKt">
     <configuration name="_10_TransposeMatrixKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="solved.leetcode.code_december._10_TransposeMatrixKt" />
       <module name="Competitive-Programming.main" />
@@ -108,15 +112,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_6_CalculateMoneyInLeetcodeBankKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="solved.leetcode.code_december._6_CalculateMoneyInLeetcodeBankKt" />
+    <configuration name="_11_ElementAppearingMoreThan25_InSortedArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solved.leetcode.code_december._11_ElementAppearingMoreThan25_InSortedArrayKt" />
       <module name="Competitive-Programming.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_7_LongestOddNumInStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="solved.leetcode.code_december._7_LongestOddNumInStringKt" />
+    <configuration name="_12_MaximumProductOfTwoElementsArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solved.leetcode.code_december._12_MaximumProductOfTwoElementsArrayKt" />
       <module name="Competitive-Programming.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -138,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._12_MaximumProductOfTwoElementsArrayKt" />
+        <item itemvalue="Kotlin._11_ElementAppearingMoreThan25_InSortedArrayKt" />
         <item itemvalue="Kotlin._10_TransposeMatrixKt" />
         <item itemvalue="Kotlin._9_BinaryTreeInorderTraversalKt" />
         <item itemvalue="Kotlin._8_ConstructStringFromBinaryTreeKt" />
-        <item itemvalue="Kotlin._7_LongestOddNumInStringKt" />
-        <item itemvalue="Kotlin._6_CalculateMoneyInLeetcodeBankKt" />
       </list>
     </recent_temporary>
   </component>
@@ -337,14 +341,6 @@
       <option name="project" value="LOCAL" />
       <updated>1684256642212</updated>
     </task>
-    <task id="LOCAL-00036" summary="practice-November">
-      <option name="closed" value="true" />
-      <created>1699983063229</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1699983063229</updated>
-    </task>
     <task id="LOCAL-00037" summary="practice-November">
       <option name="closed" value="true" />
       <created>1700161557886</created>
@@ -529,7 +525,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702202084914</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="practice-December">
+      <option name="closed" value="true" />
+      <created>1702313242204</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1702313242205</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

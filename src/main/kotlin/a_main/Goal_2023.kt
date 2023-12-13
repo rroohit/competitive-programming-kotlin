@@ -135,7 +135,8 @@ package a_main
  *  Problem - 116  :  BinaryTreeInorderTraversal                      : 9
  *  Problem - 117  :  TransposeMatrix                                 : 10
  *  Problem - 118  :  ElementAppearingMoreThan25%InSortedArray        : 11
- *  Problem - 119  :  MaximumProductOfTwoElementsArray               : 12
+ *  Problem - 119  :  MaximumProductOfTwoElementsArray                : 12
+ *  Problem - 120  :  SpecialPositionsInBinaryMatrix                  : 13
  *
  *
  *

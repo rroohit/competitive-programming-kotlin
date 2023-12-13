@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c18197ca-33c2-40f5-83d3-5ade9708f0e5" name="Changes" comment="practice-December">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/solved/leetcode/code_december/12_MaximumProductOfTwoElementsArray.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/solved/leetcode/code_december/13_SpecialPositionsInBinaryMatrix.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/a_main/Goal_2023.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/a_main/Goal_2023.kt" afterDir="false" />
     </list>
@@ -87,6 +87,7 @@
     "Kotlin._10_TransposeMatrixKt.executor": "Run",
     "Kotlin._11_ElementAppearingMoreThan25_InSortedArrayKt.executor": "Run",
     "Kotlin._12_MaximumProductOfTwoElementsArrayKt.executor": "Run",
+    "Kotlin._13_SpecialPositionsInBinaryMatrixKt.executor": "Run",
     "Kotlin._8_ConstructStringFromBinaryTreeKt.executor": "Run",
     "Kotlin._9_BinaryTreeInorderTraversalKt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -104,7 +105,7 @@
       <recent name="C:\Users\r0hit\IdeaProjects\competitive-programming-kotlin\src\main\kotlin\unsolved" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._12_MaximumProductOfTwoElementsArrayKt">
+  <component name="RunManager" selected="Kotlin._13_SpecialPositionsInBinaryMatrixKt">
     <configuration name="_10_TransposeMatrixKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="solved.leetcode.code_december._10_TransposeMatrixKt" />
       <module name="Competitive-Programming.main" />
@@ -126,8 +127,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_8_ConstructStringFromBinaryTreeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="solved.leetcode.code_december._8_ConstructStringFromBinaryTreeKt" />
+    <configuration name="_13_SpecialPositionsInBinaryMatrixKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solved.leetcode.code_december._13_SpecialPositionsInBinaryMatrixKt" />
       <module name="Competitive-Programming.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -142,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._13_SpecialPositionsInBinaryMatrixKt" />
         <item itemvalue="Kotlin._12_MaximumProductOfTwoElementsArrayKt" />
         <item itemvalue="Kotlin._11_ElementAppearingMoreThan25_InSortedArrayKt" />
         <item itemvalue="Kotlin._10_TransposeMatrixKt" />
         <item itemvalue="Kotlin._9_BinaryTreeInorderTraversalKt" />
-        <item itemvalue="Kotlin._8_ConstructStringFromBinaryTreeKt" />
       </list>
     </recent_temporary>
   </component>
@@ -341,14 +342,6 @@
       <option name="project" value="LOCAL" />
       <updated>1684256642212</updated>
     </task>
-    <task id="LOCAL-00037" summary="practice-November">
-      <option name="closed" value="true" />
-      <created>1700161557886</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1700161557886</updated>
-    </task>
     <task id="LOCAL-00038" summary="practice-November">
       <option name="closed" value="true" />
       <created>1700236855506</created>
@@ -533,7 +526,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702313242205</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="practice-December">
+      <option name="closed" value="true" />
+      <created>1702397956122</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1702397956123</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

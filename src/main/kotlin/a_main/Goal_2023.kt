@@ -142,6 +142,7 @@ package a_main
  *  Problem - 123  :  ValidAnagram                                    : 16
  *  Problem - 124  :  DesignAFoodRatingSystem                         : 17
  *  Problem - 125  :  MaximumProductDifferenceBetweenTwoPairs         : 18
+ *  Problem - 126  :  ImageSmoother                                   : 19
  *
  *
  *

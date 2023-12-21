@@ -144,6 +144,7 @@ package a_main
  *  Problem - 125  :  MaximumProductDifferenceBetweenTwoPairs         : 18
  *  Problem - 126  :  ImageSmoother                                   : 19
  *  Problem - 127  :  BuyTwoChocolates                                : 20
+ *  Problem - 128  :  WidestVerticalAreaBetweenTwoPointsContainingNoPoints : 21
  *
  *
  */

@@ -28,11 +28,10 @@ fun main() {
 
 fun isPathCrossing(path: String): Boolean {
     val visited = mutableListOf<String>()
+    visited.add("0,0")
+
     var x = 0
     var y = 0
-
-    visited.add("$x,$y")
-
     for (ch in path) {
         when (ch) {
             'N' -> y++

@@ -22,7 +22,7 @@ fun main() {
 
     val s = "10010100"
     //val s = "10"
-//    val s = "0100"
+    //val s = "0100"
 
     val ans = minOperations(s)
 

@@ -149,6 +149,7 @@ package a_main
  *  Problem - 130  :  MaximumScoreAfterSplittingString                : 22
  *  Problem - 131  :  PathCrossing                                    : 23
  *  Problem - 132  :  MinimumChangesToMakeAlternatingBinaryString     : 24
+ *  Problem - 133  :  DecodeWays                                      : 25
  *
  *
  */

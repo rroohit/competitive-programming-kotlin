@@ -151,6 +151,7 @@ package a_main
  *  Problem - 132  :  MinimumChangesToMakeAlternatingBinaryString     : 24
  *  Problem - 133  :  DecodeWays                                      : 25
  *  Problem - 134  :  NumberOfDiceRollsWithTargetSum                  : 26
+ *  Problem - 135  :  MinimumTimeMakeRopeColorful                     : 27
  *
  *
  */
